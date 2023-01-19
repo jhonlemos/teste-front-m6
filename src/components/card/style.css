@@ -1,0 +1,12 @@
+.card {
+    box-sizing: border-box;
+    position: absolute;
+    left: 20.31%;
+    right: 20.31%;
+    top: 22.29%;
+    bottom: 22.14%;
+    background: rgba(209, 220, 227, 0.18);
+    border: 1px solid #D1DCE3;
+    border-radius: 4px;
+    display: flex;
+}
